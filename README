@@ -1,5 +1,8 @@
 Testado no Linux Ubuntu com o Haskell Platform instalado
 
+Baixar do Repositório
+  git clone https://github.com/vfpereira/Mandelbrot.git
+
 Mandelbrot_sequencial.hs
   Compilação
     ghc Mandelbrot_sequencial.hs 
