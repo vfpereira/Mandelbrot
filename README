@@ -31,3 +31,5 @@ Mandelbrot_paralelo.hs
     ./Mandelbrot_paralelo +RTS 4 (utilizando 4 núcleos)
     ou
     ./Mandelbrot_paralelo 4 9 0 +RTS 4 (utilizando 4 tarefas,100 pontos e particionamento por linha, para 4 núcleos)
+
+Códigos .c precisam de mais testes para garantir seu funcionamento
