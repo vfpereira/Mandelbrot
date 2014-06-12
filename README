@@ -1,0 +1,13 @@
+Testado no Linux Ubuntu com o Haskell Platform instalado
+
+Mandelbrot_sequencial.hs
+  Compilação
+    ghc Mandelbrot_sequencial.hs 
+    
+Execução
+  ./Mandelbrot_sequencial 
+  ou
+  ./Mandelbrot_sequencial  x  (x é igual ao numero de pontos em cada dimensão, onde o total de pontos da aplicação é x² +1, +1 devido ao ponto zero))
+  Exemplo
+    ./Mandelbrot_sequencial 9  (100 pontos)
+    
