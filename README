@@ -16,3 +16,18 @@ Mandelbrot_OpenGL.hs
   Execução
     ./Mandelbrot_OpenGL
     
+Mandelbrot_paralelo.hs 
+  Talvez a necessidade de instalação da biblioteca para listas split
+    cabal update
+    cabal install split
+  Compilação
+    ghc Mandelbrot_paralelo.hs -threaded
+  Execução
+    ./Mandelbrot_paralelo +RTS -Nx (x = numero de processadores) 
+    ou
+    ./Mandelbrot_paralelo a b c +RTS -Nx (a é o numero de tarfas lançadas,b é igual ao numero de pontos em cada dimensão, c é a foma de particionamento)
+      particionamentos (0- linha, 1-linha round robin,2-coluna,outros coluna round robin )
+    Exemplos
+    ./Mandelbrot_paralelo +RTS 4 (utilizando 4 núcleos)
+    ou
+    ./Mandelbrot_paralelo 4 9 0 +RTS 4 (utilizando 4 tarefas,100 pontos e particionamento por linha, para 4 núcleos)
