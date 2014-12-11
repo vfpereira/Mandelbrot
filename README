@@ -19,7 +19,7 @@ Mandelbrot_OpenGL.hs
   Execução
     ./Mandelbrot_OpenGL
     
-Mandelbrot_paralelo.hs 
+Mandelbrot_paralelo.hs ( processo análogo para Mandelbrot_e_alocacao_paralelo,Mandelbrot_paralelo_repa apenas mudando o nome do arquivo ) 
   Talvez a necessidade de instalação da biblioteca para listas split
     cabal update
     cabal install split
@@ -28,11 +28,29 @@ Mandelbrot_paralelo.hs
   Execução
     ./Mandelbrot_paralelo +RTS -Nx (x = numero de processadores) 
     ou
-    ./Mandelbrot_paralelo a b c +RTS -Nx (a é o numero de tarfas lançadas,b é igual ao numero de pontos em cada dimensão, c é a foma de particionamento)
+    ./Mandelbrot_paralelo a b c +RTS -Nx (a é o numero de tarefas lançadas,b é igual ao numero de pontos em cada dimensão, c é a foma de particionamento)
       particionamentos (0- linha, 1-linha round robin,2-coluna,outros coluna round robin )
     Exemplos
-    ./Mandelbrot_paralelo +RTS 4 (utilizando 4 núcleos)
+    ./Mandelbrot_paralelo +RTS -N4 (utilizando 4 núcleos)
     ou
-    ./Mandelbrot_paralelo 4 9 0 +RTS 4 (utilizando 4 tarefas,100 pontos e particionamento por linha, para 4 núcleos)
+    ./Mandelbrot_paralelo 4 9 0 +RTS -N4 (utilizando 4 tarefas,100 pontos e particionamento por linha, para 4 núcleos)
 
-Códigos .c precisam de mais testes para garantir seu funcionamento
+Mandelbrot_sequencial.c
+	Compilação
+		gcc Mandelbrot_sequencial.c -o mandelbrot_sequencial_c -lm -lGL -lglut -lGLU
+	Execução
+		./mandelbrot_sequencial_c 
+		ou
+		./mandelbrot_sequencial_c x (x é igual ao numero de pontos em cada dimensão, onde o total de pontos da aplicação é x² +1, +1 devido ao ponto zero))
+	Exemplo	
+		./Mandelbrot_sequencial_c 9  (100 pontos)
+	
+Mandelbrot_Paralelo.c
+	Compilação	
+		gcc Mandelbrot_Paralelo.c -o mandelbrot_paralelo_c -lm -lGL -lglut -lGLU -pthread
+	Execução
+		./mandelbrot_paralelo_c
+		ou
+		./mandelbrot_paralelo_c a b (a é o numero de tarefas lançadas,b é igual ao numero de pontos+1 em cada dimensão  )
+	Exemplo 
+		./mandelbrot_paralelo_c  2 9 (utilizando 2 threads e 100 pontos )

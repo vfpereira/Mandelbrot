@@ -1,0 +1,1256 @@
+TempoAlocacao,Tempo,Pontos,Algoritmo
+0.004733,0.181851,16641,Mandelbrot_sequencial.hs
+0.004827,0.181694,16641,Mandelbrot_sequencial.hs
+0.00473,0.184952,16641,Mandelbrot_sequencial.hs
+0.004652,0.183349,16641,Mandelbrot_sequencial.hs
+0.00468,0.183592,16641,Mandelbrot_sequencial.hs
+0.004693,0.181914,16641,Mandelbrot_sequencial.hs
+0.004683,0.183817,16641,Mandelbrot_sequencial.hs
+0.004659,0.184104,16641,Mandelbrot_sequencial.hs
+0.004715,0.184751,16641,Mandelbrot_sequencial.hs
+0.004692,0.182041,16641,Mandelbrot_sequencial.hs
+0.004696,0.183382,16641,Mandelbrot_sequencial.hs
+0.004608,0.182238,16641,Mandelbrot_sequencial.hs
+0.00465,0.181657,16641,Mandelbrot_sequencial.hs
+0.004679,0.182792,16641,Mandelbrot_sequencial.hs
+0.00469,0.182319,16641,Mandelbrot_sequencial.hs
+0.004666,0.184271,16641,Mandelbrot_sequencial.hs
+0.004676,0.184195,16641,Mandelbrot_sequencial.hs
+0.004663,0.183275,16641,Mandelbrot_sequencial.hs
+0.004623,0.182888,16641,Mandelbrot_sequencial.hs
+0.004631,0.182868,16641,Mandelbrot_sequencial.hs
+0.004606,0.182872,16641,Mandelbrot_sequencial.hs
+0.004656,0.181692,16641,Mandelbrot_sequencial.hs
+0.004667,0.1826,16641,Mandelbrot_sequencial.hs
+0.004666,0.18252,16641,Mandelbrot_sequencial.hs
+0.004676,0.182396,16641,Mandelbrot_sequencial.hs
+0.004671,0.182875,16641,Mandelbrot_sequencial.hs
+0.004668,0.182534,16641,Mandelbrot_sequencial.hs
+0.004622,0.183555,16641,Mandelbrot_sequencial.hs
+0.004628,0.183328,16641,Mandelbrot_sequencial.hs
+0.004615,0.183551,16641,Mandelbrot_sequencial.hs
+0.004678,0.183555,16641,Mandelbrot_sequencial.hs
+0.004671,0.182549,16641,Mandelbrot_sequencial.hs
+0.004664,0.181389,16641,Mandelbrot_sequencial.hs
+0.004662,0.182349,16641,Mandelbrot_sequencial.hs
+0.004667,0.183105,16641,Mandelbrot_sequencial.hs
+0.00466,0.184667,16641,Mandelbrot_sequencial.hs
+0.004636,0.18484,16641,Mandelbrot_sequencial.hs
+0.004637,0.18323,16641,Mandelbrot_sequencial.hs
+0.004644,0.182482,16641,Mandelbrot_sequencial.hs
+0.004679,0.182082,16641,Mandelbrot_sequencial.hs
+0.004656,0.182281,16641,Mandelbrot_sequencial.hs
+0.004608,0.184336,16641,Mandelbrot_sequencial.hs
+0.004618,0.18314,16641,Mandelbrot_sequencial.hs
+0.004622,0.181793,16641,Mandelbrot_sequencial.hs
+0.00467,0.183306,16641,Mandelbrot_sequencial.hs
+0.004674,0.182473,16641,Mandelbrot_sequencial.hs
+0.004634,0.184298,16641,Mandelbrot_sequencial.hs
+0.004621,0.182674,16641,Mandelbrot_sequencial.hs
+0.004622,0.181815,16641,Mandelbrot_sequencial.hs
+0.004632,0.182063,16641,Mandelbrot_sequencial.hs
+0.016985,0.726096,66049,Mandelbrot_sequencial.hs
+0.016912,0.724932,66049,Mandelbrot_sequencial.hs
+0.016904,0.728692,66049,Mandelbrot_sequencial.hs
+0.016864,0.723036,66049,Mandelbrot_sequencial.hs
+0.016927,0.728858,66049,Mandelbrot_sequencial.hs
+0.016897,0.725908,66049,Mandelbrot_sequencial.hs
+0.016909,0.733823,66049,Mandelbrot_sequencial.hs
+0.016867,0.725224,66049,Mandelbrot_sequencial.hs
+0.016917,0.723206,66049,Mandelbrot_sequencial.hs
+0.016858,0.732637,66049,Mandelbrot_sequencial.hs
+0.016879,0.72965,66049,Mandelbrot_sequencial.hs
+0.01688,0.726337,66049,Mandelbrot_sequencial.hs
+0.01687,0.731863,66049,Mandelbrot_sequencial.hs
+0.016863,0.726196,66049,Mandelbrot_sequencial.hs
+0.016819,0.728649,66049,Mandelbrot_sequencial.hs
+0.016858,0.730732,66049,Mandelbrot_sequencial.hs
+0.016841,0.728098,66049,Mandelbrot_sequencial.hs
+0.016866,0.733504,66049,Mandelbrot_sequencial.hs
+0.016814,0.722515,66049,Mandelbrot_sequencial.hs
+0.01682,0.725847,66049,Mandelbrot_sequencial.hs
+0.016882,0.723596,66049,Mandelbrot_sequencial.hs
+0.01692,0.735554,66049,Mandelbrot_sequencial.hs
+0.016875,0.735204,66049,Mandelbrot_sequencial.hs
+0.016907,0.734323,66049,Mandelbrot_sequencial.hs
+0.016817,0.724458,66049,Mandelbrot_sequencial.hs
+0.016837,0.722325,66049,Mandelbrot_sequencial.hs
+0.01686,0.735466,66049,Mandelbrot_sequencial.hs
+0.016857,0.725519,66049,Mandelbrot_sequencial.hs
+0.016925,0.734904,66049,Mandelbrot_sequencial.hs
+0.016802,0.729474,66049,Mandelbrot_sequencial.hs
+0.016858,0.7247,66049,Mandelbrot_sequencial.hs
+0.016816,0.729115,66049,Mandelbrot_sequencial.hs
+0.016893,0.724191,66049,Mandelbrot_sequencial.hs
+0.016877,0.729127,66049,Mandelbrot_sequencial.hs
+0.016872,0.734204,66049,Mandelbrot_sequencial.hs
+0.016885,0.723879,66049,Mandelbrot_sequencial.hs
+0.016883,0.725173,66049,Mandelbrot_sequencial.hs
+0.016862,0.724942,66049,Mandelbrot_sequencial.hs
+0.016894,0.735068,66049,Mandelbrot_sequencial.hs
+0.016837,0.735513,66049,Mandelbrot_sequencial.hs
+0.016899,0.729049,66049,Mandelbrot_sequencial.hs
+0.016909,0.723752,66049,Mandelbrot_sequencial.hs
+0.016856,0.723699,66049,Mandelbrot_sequencial.hs
+0.016879,0.735442,66049,Mandelbrot_sequencial.hs
+0.016858,0.728257,66049,Mandelbrot_sequencial.hs
+0.016889,0.725753,66049,Mandelbrot_sequencial.hs
+0.016952,0.725136,66049,Mandelbrot_sequencial.hs
+0.016847,0.723851,66049,Mandelbrot_sequencial.hs
+0.016852,0.725004,66049,Mandelbrot_sequencial.hs
+0.017137,0.7261,66049,Mandelbrot_sequencial.hs
+0.065155,2.878412,263169,Mandelbrot_sequencial.hs
+0.064907,2.875492,263169,Mandelbrot_sequencial.hs
+0.064912,2.915197,263169,Mandelbrot_sequencial.hs
+0.064987,2.877023,263169,Mandelbrot_sequencial.hs
+0.064994,2.925127,263169,Mandelbrot_sequencial.hs
+0.064862,2.926242,263169,Mandelbrot_sequencial.hs
+0.064989,2.909767,263169,Mandelbrot_sequencial.hs
+0.065175,2.889962,263169,Mandelbrot_sequencial.hs
+0.064849,2.922444,263169,Mandelbrot_sequencial.hs
+0.064859,2.87783,263169,Mandelbrot_sequencial.hs
+0.064932,2.886932,263169,Mandelbrot_sequencial.hs
+0.065058,2.878548,263169,Mandelbrot_sequencial.hs
+0.065013,2.927597,263169,Mandelbrot_sequencial.hs
+0.064904,2.872632,263169,Mandelbrot_sequencial.hs
+0.065066,2.899178,263169,Mandelbrot_sequencial.hs
+0.064829,2.880157,263169,Mandelbrot_sequencial.hs
+0.064984,2.922681,263169,Mandelbrot_sequencial.hs
+0.064857,2.876585,263169,Mandelbrot_sequencial.hs
+0.0649,2.917778,263169,Mandelbrot_sequencial.hs
+0.064929,2.873091,263169,Mandelbrot_sequencial.hs
+0.064785,2.909471,263169,Mandelbrot_sequencial.hs
+0.065066,2.900927,263169,Mandelbrot_sequencial.hs
+0.064935,2.880832,263169,Mandelbrot_sequencial.hs
+0.064903,2.911656,263169,Mandelbrot_sequencial.hs
+0.064917,2.885605,263169,Mandelbrot_sequencial.hs
+0.064833,2.924163,263169,Mandelbrot_sequencial.hs
+0.064841,2.872619,263169,Mandelbrot_sequencial.hs
+0.064969,2.879701,263169,Mandelbrot_sequencial.hs
+0.06486,2.926323,263169,Mandelbrot_sequencial.hs
+0.064827,2.882304,263169,Mandelbrot_sequencial.hs
+0.06486,2.88631,263169,Mandelbrot_sequencial.hs
+0.064846,2.906205,263169,Mandelbrot_sequencial.hs
+0.06496,2.894088,263169,Mandelbrot_sequencial.hs
+0.065079,2.896579,263169,Mandelbrot_sequencial.hs
+0.064851,2.880862,263169,Mandelbrot_sequencial.hs
+0.065006,2.884821,263169,Mandelbrot_sequencial.hs
+0.064938,2.88125,263169,Mandelbrot_sequencial.hs
+0.064898,2.920793,263169,Mandelbrot_sequencial.hs
+0.06491,2.880356,263169,Mandelbrot_sequencial.hs
+0.064858,2.878758,263169,Mandelbrot_sequencial.hs
+0.064956,2.892644,263169,Mandelbrot_sequencial.hs
+0.064933,2.925231,263169,Mandelbrot_sequencial.hs
+0.064928,2.919106,263169,Mandelbrot_sequencial.hs
+0.064823,2.879633,263169,Mandelbrot_sequencial.hs
+0.06483,2.885607,263169,Mandelbrot_sequencial.hs
+0.064972,2.882549,263169,Mandelbrot_sequencial.hs
+0.06484,2.901583,263169,Mandelbrot_sequencial.hs
+0.0649,2.885301,263169,Mandelbrot_sequencial.hs
+0.06492,2.881779,263169,Mandelbrot_sequencial.hs
+0.064816,2.886462,263169,Mandelbrot_sequencial.hs
+0.250203,11.529563,1050625,Mandelbrot_sequencial.hs
+0.249669,11.539975,1050625,Mandelbrot_sequencial.hs
+0.250232,11.489309,1050625,Mandelbrot_sequencial.hs
+0.250239,11.557974,1050625,Mandelbrot_sequencial.hs
+0.250056,11.490784,1050625,Mandelbrot_sequencial.hs
+0.249822,11.571661,1050625,Mandelbrot_sequencial.hs
+0.250093,11.484042,1050625,Mandelbrot_sequencial.hs
+0.250004,11.642949,1050625,Mandelbrot_sequencial.hs
+0.250134,11.531975,1050625,Mandelbrot_sequencial.hs
+0.249839,11.514877,1050625,Mandelbrot_sequencial.hs
+0.249912,11.515179,1050625,Mandelbrot_sequencial.hs
+0.249967,11.528866,1050625,Mandelbrot_sequencial.hs
+0.25009,11.50054,1050625,Mandelbrot_sequencial.hs
+0.249623,11.482981,1050625,Mandelbrot_sequencial.hs
+0.250353,11.48681,1050625,Mandelbrot_sequencial.hs
+0.249812,11.516321,1050625,Mandelbrot_sequencial.hs
+0.249925,11.675731,1050625,Mandelbrot_sequencial.hs
+0.249915,11.487909,1050625,Mandelbrot_sequencial.hs
+0.249727,11.467083,1050625,Mandelbrot_sequencial.hs
+0.250108,11.572138,1050625,Mandelbrot_sequencial.hs
+0.249807,11.479571,1050625,Mandelbrot_sequencial.hs
+0.250005,11.519164,1050625,Mandelbrot_sequencial.hs
+0.250349,11.529396,1050625,Mandelbrot_sequencial.hs
+0.250101,11.516944,1050625,Mandelbrot_sequencial.hs
+0.249767,11.523609,1050625,Mandelbrot_sequencial.hs
+0.249888,11.482013,1050625,Mandelbrot_sequencial.hs
+0.24999,11.627112,1050625,Mandelbrot_sequencial.hs
+0.249696,11.569321,1050625,Mandelbrot_sequencial.hs
+0.249776,11.48943,1050625,Mandelbrot_sequencial.hs
+0.250125,11.472852,1050625,Mandelbrot_sequencial.hs
+0.249828,11.630134,1050625,Mandelbrot_sequencial.hs
+0.250441,11.582442,1050625,Mandelbrot_sequencial.hs
+0.252022,11.63612,1050625,Mandelbrot_sequencial.hs
+0.250004,11.486868,1050625,Mandelbrot_sequencial.hs
+0.249915,11.52039,1050625,Mandelbrot_sequencial.hs
+0.250106,11.482107,1050625,Mandelbrot_sequencial.hs
+0.250009,11.523084,1050625,Mandelbrot_sequencial.hs
+0.250215,11.511039,1050625,Mandelbrot_sequencial.hs
+0.250451,11.68826,1050625,Mandelbrot_sequencial.hs
+0.249972,11.472729,1050625,Mandelbrot_sequencial.hs
+0.249968,11.688518,1050625,Mandelbrot_sequencial.hs
+0.249798,11.560496,1050625,Mandelbrot_sequencial.hs
+0.250027,11.643455,1050625,Mandelbrot_sequencial.hs
+0.250219,11.57691,1050625,Mandelbrot_sequencial.hs
+0.249645,11.522291,1050625,Mandelbrot_sequencial.hs
+0.24975,11.504218,1050625,Mandelbrot_sequencial.hs
+0.250272,11.525031,1050625,Mandelbrot_sequencial.hs
+0.249505,11.517185,1050625,Mandelbrot_sequencial.hs
+0.249739,11.487881,1050625,Mandelbrot_sequencial.hs
+0.250005,11.475624,1050625,Mandelbrot_sequencial.hs
+0.952305,46.249959,4198401,Mandelbrot_sequencial.hs
+0.952699,45.889472,4198401,Mandelbrot_sequencial.hs
+0.950523,46.386281,4198401,Mandelbrot_sequencial.hs
+0.949033,45.775878,4198401,Mandelbrot_sequencial.hs
+0.951863,45.8712,4198401,Mandelbrot_sequencial.hs
+0.951337,45.780089,4198401,Mandelbrot_sequencial.hs
+0.949939,46.408848,4198401,Mandelbrot_sequencial.hs
+0.951624,46.463367,4198401,Mandelbrot_sequencial.hs
+0.950498,46.0363,4198401,Mandelbrot_sequencial.hs
+0.950806,45.730326,4198401,Mandelbrot_sequencial.hs
+0.951873,45.838317,4198401,Mandelbrot_sequencial.hs
+0.951017,45.76936,4198401,Mandelbrot_sequencial.hs
+0.949988,45.791465,4198401,Mandelbrot_sequencial.hs
+0.950475,45.962519,4198401,Mandelbrot_sequencial.hs
+0.950459,46.262264,4198401,Mandelbrot_sequencial.hs
+0.949469,45.992311,4198401,Mandelbrot_sequencial.hs
+0.949544,46.043508,4198401,Mandelbrot_sequencial.hs
+0.949324,46.198455,4198401,Mandelbrot_sequencial.hs
+0.947708,45.967681,4198401,Mandelbrot_sequencial.hs
+0.952251,46.368757,4198401,Mandelbrot_sequencial.hs
+0.950125,46.61269,4198401,Mandelbrot_sequencial.hs
+0.950924,45.987886,4198401,Mandelbrot_sequencial.hs
+0.949318,45.771821,4198401,Mandelbrot_sequencial.hs
+0.956409,46.218377,4198401,Mandelbrot_sequencial.hs
+0.95059,45.993291,4198401,Mandelbrot_sequencial.hs
+0.950214,45.858593,4198401,Mandelbrot_sequencial.hs
+0.953084,46.252461,4198401,Mandelbrot_sequencial.hs
+0.949339,46.584364,4198401,Mandelbrot_sequencial.hs
+0.950149,46.180456,4198401,Mandelbrot_sequencial.hs
+0.949696,45.753464,4198401,Mandelbrot_sequencial.hs
+0.950453,45.753238,4198401,Mandelbrot_sequencial.hs
+0.950201,46.028496,4198401,Mandelbrot_sequencial.hs
+0.949307,45.968479,4198401,Mandelbrot_sequencial.hs
+0.950886,46.225315,4198401,Mandelbrot_sequencial.hs
+0.950837,46.018582,4198401,Mandelbrot_sequencial.hs
+0.949944,46.710209,4198401,Mandelbrot_sequencial.hs
+0.951826,46.04379,4198401,Mandelbrot_sequencial.hs
+0.950966,46.657673,4198401,Mandelbrot_sequencial.hs
+0.951314,46.032498,4198401,Mandelbrot_sequencial.hs
+0.951384,46.66892,4198401,Mandelbrot_sequencial.hs
+0.95053,45.731915,4198401,Mandelbrot_sequencial.hs
+0.951421,45.999091,4198401,Mandelbrot_sequencial.hs
+0.949698,45.844462,4198401,Mandelbrot_sequencial.hs
+0.951902,46.650398,4198401,Mandelbrot_sequencial.hs
+0.951145,46.554506,4198401,Mandelbrot_sequencial.hs
+0.950403,46.185174,4198401,Mandelbrot_sequencial.hs
+0.951332,45.994618,4198401,Mandelbrot_sequencial.hs
+0.948597,45.982413,4198401,Mandelbrot_sequencial.hs
+0.949118,45.958637,4198401,Mandelbrot_sequencial.hs
+0.950465,46.538386,4198401,Mandelbrot_sequencial.hs
+
+0.001177,0.036693,16641,Mandelbrot_sequencial.hs -O3 
+0.000991,0.036527,16641,Mandelbrot_sequencial.hs -O3 
+0.000991,0.036727,16641,Mandelbrot_sequencial.hs -O3 
+0.001149,0.037001,16641,Mandelbrot_sequencial.hs -O3 
+0.001085,0.036712,16641,Mandelbrot_sequencial.hs -O3 
+0.000993,0.036606,16641,Mandelbrot_sequencial.hs -O3 
+0.000994,0.036797,16641,Mandelbrot_sequencial.hs -O3 
+0.00113,0.036803,16641,Mandelbrot_sequencial.hs -O3 
+0.001052,0.03683,16641,Mandelbrot_sequencial.hs -O3 
+0.001144,0.036828,16641,Mandelbrot_sequencial.hs -O3 
+0.001127,0.036825,16641,Mandelbrot_sequencial.hs -O3 
+0.001136,0.036678,16641,Mandelbrot_sequencial.hs -O3 
+0.000991,0.036596,16641,Mandelbrot_sequencial.hs -O3 
+0.001129,0.036787,16641,Mandelbrot_sequencial.hs -O3 
+0.001096,0.036679,16641,Mandelbrot_sequencial.hs -O3 
+0.001131,0.03663,16641,Mandelbrot_sequencial.hs -O3 
+0.001002,0.03665,16641,Mandelbrot_sequencial.hs -O3 
+0.000994,0.036665,16641,Mandelbrot_sequencial.hs -O3 
+0.000989,0.037026,16641,Mandelbrot_sequencial.hs -O3 
+0.001012,0.037149,16641,Mandelbrot_sequencial.hs -O3 
+0.001153,0.036582,16641,Mandelbrot_sequencial.hs -O3 
+0.00113,0.03665,16641,Mandelbrot_sequencial.hs -O3 
+0.00099,0.036555,16641,Mandelbrot_sequencial.hs -O3 
+0.001091,0.036574,16641,Mandelbrot_sequencial.hs -O3 
+0.001045,0.036823,16641,Mandelbrot_sequencial.hs -O3 
+0.000989,0.036666,16641,Mandelbrot_sequencial.hs -O3 
+0.001157,0.03688,16641,Mandelbrot_sequencial.hs -O3 
+0.001128,0.036618,16641,Mandelbrot_sequencial.hs -O3 
+0.000989,0.036747,16641,Mandelbrot_sequencial.hs -O3 
+0.001118,0.03674,16641,Mandelbrot_sequencial.hs -O3 
+0.001022,0.036826,16641,Mandelbrot_sequencial.hs -O3 
+0.001145,0.036702,16641,Mandelbrot_sequencial.hs -O3 
+0.001129,0.036625,16641,Mandelbrot_sequencial.hs -O3 
+0.000991,0.036628,16641,Mandelbrot_sequencial.hs -O3 
+0.001126,0.036602,16641,Mandelbrot_sequencial.hs -O3 
+0.000989,0.03676,16641,Mandelbrot_sequencial.hs -O3 
+0.001119,0.036673,16641,Mandelbrot_sequencial.hs -O3 
+0.001143,0.036666,16641,Mandelbrot_sequencial.hs -O3 
+0.001133,0.036626,16641,Mandelbrot_sequencial.hs -O3 
+0.00099,0.036894,16641,Mandelbrot_sequencial.hs -O3 
+0.001134,0.036597,16641,Mandelbrot_sequencial.hs -O3 
+0.000989,0.036686,16641,Mandelbrot_sequencial.hs -O3 
+0.001147,0.036729,16641,Mandelbrot_sequencial.hs -O3 
+0.001134,0.036683,16641,Mandelbrot_sequencial.hs -O3 
+0.001129,0.036774,16641,Mandelbrot_sequencial.hs -O3 
+0.00099,0.036745,16641,Mandelbrot_sequencial.hs -O3 
+0.001133,0.03665,16641,Mandelbrot_sequencial.hs -O3 
+0.001049,0.037004,16641,Mandelbrot_sequencial.hs -O3 
+0.001108,0.037035,16641,Mandelbrot_sequencial.hs -O3 
+0.001114,0.036651,16641,Mandelbrot_sequencial.hs -O3 
+0.002859,0.146291,66049,Mandelbrot_sequencial.hs -O3 
+0.002877,0.146269,66049,Mandelbrot_sequencial.hs -O3 
+0.002855,0.146976,66049,Mandelbrot_sequencial.hs -O3 
+0.003003,0.146098,66049,Mandelbrot_sequencial.hs -O3 
+0.002863,0.146051,66049,Mandelbrot_sequencial.hs -O3 
+0.002855,0.146128,66049,Mandelbrot_sequencial.hs -O3 
+0.003015,0.146025,66049,Mandelbrot_sequencial.hs -O3 
+0.002936,0.145941,66049,Mandelbrot_sequencial.hs -O3 
+0.002867,0.147285,66049,Mandelbrot_sequencial.hs -O3 
+0.002868,0.145878,66049,Mandelbrot_sequencial.hs -O3 
+0.003006,0.145824,66049,Mandelbrot_sequencial.hs -O3 
+0.002865,0.146107,66049,Mandelbrot_sequencial.hs -O3 
+0.002873,0.146392,66049,Mandelbrot_sequencial.hs -O3 
+0.002856,0.146711,66049,Mandelbrot_sequencial.hs -O3 
+0.003023,0.145933,66049,Mandelbrot_sequencial.hs -O3 
+0.002865,0.147653,66049,Mandelbrot_sequencial.hs -O3 
+0.002871,0.146735,66049,Mandelbrot_sequencial.hs -O3 
+0.003004,0.145994,66049,Mandelbrot_sequencial.hs -O3 
+0.00287,0.146322,66049,Mandelbrot_sequencial.hs -O3 
+0.002862,0.146059,66049,Mandelbrot_sequencial.hs -O3 
+0.003016,0.146166,66049,Mandelbrot_sequencial.hs -O3 
+0.002865,0.146383,66049,Mandelbrot_sequencial.hs -O3 
+0.002856,0.146508,66049,Mandelbrot_sequencial.hs -O3 
+0.003006,0.146398,66049,Mandelbrot_sequencial.hs -O3 
+0.002929,0.146958,66049,Mandelbrot_sequencial.hs -O3 
+0.002849,0.146024,66049,Mandelbrot_sequencial.hs -O3 
+0.003012,0.146815,66049,Mandelbrot_sequencial.hs -O3 
+0.002891,0.146077,66049,Mandelbrot_sequencial.hs -O3 
+0.002914,0.146215,66049,Mandelbrot_sequencial.hs -O3 
+0.002919,0.145912,66049,Mandelbrot_sequencial.hs -O3 
+0.002922,0.146107,66049,Mandelbrot_sequencial.hs -O3 
+0.002903,0.146362,66049,Mandelbrot_sequencial.hs -O3 
+0.002855,0.146381,66049,Mandelbrot_sequencial.hs -O3 
+0.002862,0.145994,66049,Mandelbrot_sequencial.hs -O3 
+0.003012,0.145878,66049,Mandelbrot_sequencial.hs -O3 
+0.002865,0.146149,66049,Mandelbrot_sequencial.hs -O3 
+0.002875,0.147239,66049,Mandelbrot_sequencial.hs -O3 
+0.002875,0.146028,66049,Mandelbrot_sequencial.hs -O3 
+0.002873,0.146334,66049,Mandelbrot_sequencial.hs -O3 
+0.002876,0.146263,66049,Mandelbrot_sequencial.hs -O3 
+0.002858,0.146117,66049,Mandelbrot_sequencial.hs -O3 
+0.002857,0.14618,66049,Mandelbrot_sequencial.hs -O3 
+0.002881,0.147673,66049,Mandelbrot_sequencial.hs -O3 
+0.002857,0.146114,66049,Mandelbrot_sequencial.hs -O3 
+0.002918,0.146152,66049,Mandelbrot_sequencial.hs -O3 
+0.003036,0.146619,66049,Mandelbrot_sequencial.hs -O3 
+0.002851,0.145651,66049,Mandelbrot_sequencial.hs -O3 
+0.002989,0.146066,66049,Mandelbrot_sequencial.hs -O3 
+0.002856,0.146071,66049,Mandelbrot_sequencial.hs -O3 
+0.002869,0.147276,66049,Mandelbrot_sequencial.hs -O3 
+0.010372,0.574648,263169,Mandelbrot_sequencial.hs -O3 
+0.010409,0.579297,263169,Mandelbrot_sequencial.hs -O3 
+0.010173,0.582067,263169,Mandelbrot_sequencial.hs -O3 
+0.010335,0.575898,263169,Mandelbrot_sequencial.hs -O3 
+0.010322,0.581725,263169,Mandelbrot_sequencial.hs -O3 
+0.010267,0.575879,263169,Mandelbrot_sequencial.hs -O3 
+0.010201,0.57627,263169,Mandelbrot_sequencial.hs -O3 
+0.010404,0.575655,263169,Mandelbrot_sequencial.hs -O3 
+0.010189,0.579036,263169,Mandelbrot_sequencial.hs -O3 
+0.010241,0.577371,263169,Mandelbrot_sequencial.hs -O3 
+0.010354,0.57718,263169,Mandelbrot_sequencial.hs -O3 
+0.010359,0.575646,263169,Mandelbrot_sequencial.hs -O3 
+0.010353,0.576268,263169,Mandelbrot_sequencial.hs -O3 
+0.010277,0.575662,263169,Mandelbrot_sequencial.hs -O3 
+0.010326,0.575687,263169,Mandelbrot_sequencial.hs -O3 
+0.010185,0.57622,263169,Mandelbrot_sequencial.hs -O3 
+0.010407,0.575779,263169,Mandelbrot_sequencial.hs -O3 
+0.01034,0.575204,263169,Mandelbrot_sequencial.hs -O3 
+0.01027,0.577893,263169,Mandelbrot_sequencial.hs -O3 
+0.010397,0.576553,263169,Mandelbrot_sequencial.hs -O3 
+0.010198,0.720919,263169,Mandelbrot_sequencial.hs -O3 
+0.01041,0.578376,263169,Mandelbrot_sequencial.hs -O3 
+0.010195,0.577699,263169,Mandelbrot_sequencial.hs -O3 
+0.010316,0.577964,263169,Mandelbrot_sequencial.hs -O3 
+0.010248,0.575246,263169,Mandelbrot_sequencial.hs -O3 
+0.01024,0.577806,263169,Mandelbrot_sequencial.hs -O3 
+0.010244,0.575882,263169,Mandelbrot_sequencial.hs -O3 
+0.010213,0.577926,263169,Mandelbrot_sequencial.hs -O3 
+0.010409,0.575904,263169,Mandelbrot_sequencial.hs -O3 
+0.010199,0.575385,263169,Mandelbrot_sequencial.hs -O3 
+0.010407,0.576285,263169,Mandelbrot_sequencial.hs -O3 
+0.010188,0.575113,263169,Mandelbrot_sequencial.hs -O3 
+0.010414,0.575563,263169,Mandelbrot_sequencial.hs -O3 
+0.01026,0.576363,263169,Mandelbrot_sequencial.hs -O3 
+0.010267,0.577017,263169,Mandelbrot_sequencial.hs -O3 
+0.010201,0.578286,263169,Mandelbrot_sequencial.hs -O3 
+0.010423,0.576771,263169,Mandelbrot_sequencial.hs -O3 
+0.010196,0.574276,263169,Mandelbrot_sequencial.hs -O3 
+0.010338,0.576741,263169,Mandelbrot_sequencial.hs -O3 
+0.010321,0.575486,263169,Mandelbrot_sequencial.hs -O3 
+0.010237,0.577982,263169,Mandelbrot_sequencial.hs -O3 
+0.010348,0.577132,263169,Mandelbrot_sequencial.hs -O3 
+0.01027,0.577792,263169,Mandelbrot_sequencial.hs -O3 
+0.01027,0.577199,263169,Mandelbrot_sequencial.hs -O3 
+0.010266,0.576972,263169,Mandelbrot_sequencial.hs -O3 
+0.010325,0.575709,263169,Mandelbrot_sequencial.hs -O3 
+0.010199,0.581633,263169,Mandelbrot_sequencial.hs -O3 
+0.010342,0.5779,263169,Mandelbrot_sequencial.hs -O3 
+0.010261,0.576544,263169,Mandelbrot_sequencial.hs -O3 
+0.010316,0.575428,263169,Mandelbrot_sequencial.hs -O3 
+0.039281,2.324613,1050625,Mandelbrot_sequencial.hs -O3 
+0.039347,2.352541,1050625,Mandelbrot_sequencial.hs -O3 
+0.039157,2.387827,1050625,Mandelbrot_sequencial.hs -O3 
+0.039441,2.327728,1050625,Mandelbrot_sequencial.hs -O3 
+0.039301,2.326273,1050625,Mandelbrot_sequencial.hs -O3 
+0.039192,2.328814,1050625,Mandelbrot_sequencial.hs -O3 
+0.039373,2.328121,1050625,Mandelbrot_sequencial.hs -O3 
+0.039131,2.324208,1050625,Mandelbrot_sequencial.hs -O3 
+0.039421,2.325683,1050625,Mandelbrot_sequencial.hs -O3 
+0.039129,2.32713,1050625,Mandelbrot_sequencial.hs -O3 
+0.039399,2.33305,1050625,Mandelbrot_sequencial.hs -O3 
+0.039369,2.331611,1050625,Mandelbrot_sequencial.hs -O3 
+0.039162,2.328132,1050625,Mandelbrot_sequencial.hs -O3 
+0.03952,2.327895,1050625,Mandelbrot_sequencial.hs -O3 
+0.039304,2.340642,1050625,Mandelbrot_sequencial.hs -O3 
+0.039267,2.346485,1050625,Mandelbrot_sequencial.hs -O3 
+0.039337,2.337088,1050625,Mandelbrot_sequencial.hs -O3 
+0.039253,2.327323,1050625,Mandelbrot_sequencial.hs -O3 
+0.039198,2.32867,1050625,Mandelbrot_sequencial.hs -O3 
+0.039324,2.33227,1050625,Mandelbrot_sequencial.hs -O3 
+0.03913,2.32787,1050625,Mandelbrot_sequencial.hs -O3 
+0.039297,2.328947,1050625,Mandelbrot_sequencial.hs -O3 
+0.039267,2.352733,1050625,Mandelbrot_sequencial.hs -O3 
+0.03927,2.331904,1050625,Mandelbrot_sequencial.hs -O3 
+0.039272,2.330854,1050625,Mandelbrot_sequencial.hs -O3 
+0.039242,2.326974,1050625,Mandelbrot_sequencial.hs -O3 
+0.039147,2.326044,1050625,Mandelbrot_sequencial.hs -O3 
+0.039333,2.328843,1050625,Mandelbrot_sequencial.hs -O3 
+0.039298,2.329968,1050625,Mandelbrot_sequencial.hs -O3 
+0.039219,2.335106,1050625,Mandelbrot_sequencial.hs -O3 
+0.039216,2.330009,1050625,Mandelbrot_sequencial.hs -O3 
+0.039242,2.351352,1050625,Mandelbrot_sequencial.hs -O3 
+0.03922,2.327144,1050625,Mandelbrot_sequencial.hs -O3 
+0.039405,2.330968,1050625,Mandelbrot_sequencial.hs -O3 
+0.039138,2.332708,1050625,Mandelbrot_sequencial.hs -O3 
+0.03933,2.32683,1050625,Mandelbrot_sequencial.hs -O3 
+0.039327,2.331652,1050625,Mandelbrot_sequencial.hs -O3 
+0.039134,2.341716,1050625,Mandelbrot_sequencial.hs -O3 
+0.039339,2.327384,1050625,Mandelbrot_sequencial.hs -O3 
+0.039405,2.328413,1050625,Mandelbrot_sequencial.hs -O3 
+0.039148,2.336537,1050625,Mandelbrot_sequencial.hs -O3 
+0.039309,2.339853,1050625,Mandelbrot_sequencial.hs -O3 
+0.039336,2.326214,1050625,Mandelbrot_sequencial.hs -O3 
+0.039163,2.325116,1050625,Mandelbrot_sequencial.hs -O3 
+0.039445,2.328893,1050625,Mandelbrot_sequencial.hs -O3 
+0.039244,2.328966,1050625,Mandelbrot_sequencial.hs -O3 
+0.039269,2.340139,1050625,Mandelbrot_sequencial.hs -O3 
+0.039266,2.333966,1050625,Mandelbrot_sequencial.hs -O3 
+0.039238,2.32735,1050625,Mandelbrot_sequencial.hs -O3 
+0.039207,2.324857,1050625,Mandelbrot_sequencial.hs -O3 
+0.154697,9.28569,4198401,Mandelbrot_sequencial.hs -O3 
+0.154807,9.277747,4198401,Mandelbrot_sequencial.hs -O3 
+0.154524,9.274719,4198401,Mandelbrot_sequencial.hs -O3 
+0.154825,9.286924,4198401,Mandelbrot_sequencial.hs -O3 
+0.154728,9.335056,4198401,Mandelbrot_sequencial.hs -O3 
+0.154848,9.276859,4198401,Mandelbrot_sequencial.hs -O3 
+0.154725,9.308459,4198401,Mandelbrot_sequencial.hs -O3 
+0.15466,9.283573,4198401,Mandelbrot_sequencial.hs -O3 
+0.154856,9.273604,4198401,Mandelbrot_sequencial.hs -O3 
+0.154726,9.316271,4198401,Mandelbrot_sequencial.hs -O3 
+0.154667,9.273986,4198401,Mandelbrot_sequencial.hs -O3 
+0.155059,9.264657,4198401,Mandelbrot_sequencial.hs -O3 
+0.154752,9.256762,4198401,Mandelbrot_sequencial.hs -O3 
+0.15462,9.374021,4198401,Mandelbrot_sequencial.hs -O3 
+0.154942,9.300155,4198401,Mandelbrot_sequencial.hs -O3 
+0.154744,9.372286,4198401,Mandelbrot_sequencial.hs -O3 
+0.154565,9.269883,4198401,Mandelbrot_sequencial.hs -O3 
+0.154589,9.276229,4198401,Mandelbrot_sequencial.hs -O3 
+0.154875,9.292411,4198401,Mandelbrot_sequencial.hs -O3 
+0.154893,9.288764,4198401,Mandelbrot_sequencial.hs -O3 
+0.154886,9.267099,4198401,Mandelbrot_sequencial.hs -O3 
+0.154842,9.302277,4198401,Mandelbrot_sequencial.hs -O3 
+0.154601,9.396557,4198401,Mandelbrot_sequencial.hs -O3 
+0.154691,9.275604,4198401,Mandelbrot_sequencial.hs -O3 
+0.154647,9.279701,4198401,Mandelbrot_sequencial.hs -O3 
+0.154691,9.280591,4198401,Mandelbrot_sequencial.hs -O3 
+0.154965,9.277119,4198401,Mandelbrot_sequencial.hs -O3 
+0.155033,9.311849,4198401,Mandelbrot_sequencial.hs -O3 
+0.154646,9.319482,4198401,Mandelbrot_sequencial.hs -O3 
+0.154684,9.312744,4198401,Mandelbrot_sequencial.hs -O3 
+0.154899,9.256485,4198401,Mandelbrot_sequencial.hs -O3 
+0.154924,9.273518,4198401,Mandelbrot_sequencial.hs -O3 
+0.154712,9.272479,4198401,Mandelbrot_sequencial.hs -O3 
+0.154879,9.325734,4198401,Mandelbrot_sequencial.hs -O3 
+0.15461,9.276022,4198401,Mandelbrot_sequencial.hs -O3 
+0.15469,9.309928,4198401,Mandelbrot_sequencial.hs -O3 
+0.154866,9.274556,4198401,Mandelbrot_sequencial.hs -O3 
+0.154808,9.263876,4198401,Mandelbrot_sequencial.hs -O3 
+0.154764,9.293464,4198401,Mandelbrot_sequencial.hs -O3 
+0.15466,9.287255,4198401,Mandelbrot_sequencial.hs -O3 
+0.154829,9.271995,4198401,Mandelbrot_sequencial.hs -O3 
+0.154744,9.309551,4198401,Mandelbrot_sequencial.hs -O3 
+0.154916,9.304521,4198401,Mandelbrot_sequencial.hs -O3 
+0.154651,9.289855,4198401,Mandelbrot_sequencial.hs -O3 
+0.154956,9.291468,4198401,Mandelbrot_sequencial.hs -O3 
+0.154613,9.29352,4198401,Mandelbrot_sequencial.hs -O3 
+0.155052,9.305125,4198401,Mandelbrot_sequencial.hs -O3 
+0.154572,9.281655,4198401,Mandelbrot_sequencial.hs -O3 
+0.154775,9.423466,4198401,Mandelbrot_sequencial.hs -O3 
+0.154853,9.302044,4198401,Mandelbrot_sequencial.hs -O3 
+
+0.03157,0.008555,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.028984,0.008943,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.029907,0.014186,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.02687,0.013072,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.037448,0.014713,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.024054,0.008652,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.040845,0.008444,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.027025,0.009335,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.035012,0.014073,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.036391,0.011671,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.027747,0.00872,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.026492,0.008835,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.026947,0.009902,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.036143,0.009137,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.025527,0.010651,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.029695,0.012084,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.026448,0.014618,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.028972,0.017151,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.03649,0.008591,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.026547,0.008442,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.026807,0.008375,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.035406,0.013981,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.026715,0.00854,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.035228,0.008585,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.02469,0.008389,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.024273,0.010083,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.025111,0.009775,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.030386,0.008648,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.03556,0.015074,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.027476,0.009497,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.028978,0.010151,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.036638,0.014956,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.050891,0.041208,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.101436,0.009473,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.025563,0.008443,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.030023,0.009657,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.026442,0.008336,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.033265,0.01341,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.028844,0.008262,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.029919,0.013507,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.031032,0.008035,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.029619,0.010526,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.038137,0.008721,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.031027,0.010425,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.037763,0.014511,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.026657,0.008204,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.027793,0.010684,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.027593,0.011722,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.02607,0.009404,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.024823,0.00913,16641,Mandelbrot_paralelo.hs CRR16 -O3
+0.102901,0.031813,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.127655,0.032969,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.103713,0.029814,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.134528,0.049385,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.101023,0.02989,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.09757,0.031975,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.107822,0.030166,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.107867,0.031063,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.096669,0.031129,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.144074,0.030992,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.125032,0.038528,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.104539,0.031066,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.113568,0.039113,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.149303,0.037346,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.121039,0.040282,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.116314,0.030675,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.124847,0.037346,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.141345,0.030332,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.142892,0.030582,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.106362,0.044543,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.103349,0.032659,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.122476,0.029212,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.102563,0.032707,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.113881,0.029777,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.100497,0.030155,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.123761,0.032272,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.094002,0.033237,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.105552,0.030919,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.123968,0.037775,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.093607,0.030292,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.10122,0.031015,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.10433,0.030931,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.095517,0.030276,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.099131,0.035904,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.130327,0.030591,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.115922,0.031808,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.104798,0.033706,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.219529,0.059783,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.140019,0.031645,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.126346,0.038522,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.100565,0.032088,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.101925,0.041628,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.125442,0.041576,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.13935,0.032696,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.132885,0.031912,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.100406,0.040016,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.142152,0.031734,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.117753,0.035647,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.150898,0.038174,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.097865,0.029229,66049,Mandelbrot_paralelo.hs CRR16 -O3
+0.544157,0.12658,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.566061,0.124742,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.498601,0.125602,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.572472,0.115458,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.544657,0.122385,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.537098,0.119633,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.53649,0.144682,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.541614,0.190964,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.523105,0.121676,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.575742,0.11486,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.584202,0.121683,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.541772,0.124351,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.569135,0.134597,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.588152,0.121184,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.618025,0.118963,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.608879,0.127861,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.571995,0.142901,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.564786,0.124251,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.555017,0.124542,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.519336,0.126289,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.514891,0.122844,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.585271,0.128389,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.527438,0.129659,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.558549,0.117161,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.557855,0.121562,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.568693,0.126992,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.535031,0.122472,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.555414,0.122092,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.576008,0.132565,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.568914,0.127486,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.54944,0.120507,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.506865,0.118889,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.574209,0.134668,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.556375,0.127054,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.555942,0.150206,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.520393,0.124745,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.548776,0.117963,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.542431,0.118938,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.549243,0.12711,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.539607,0.123271,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.580751,0.130753,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.542165,0.124756,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.520213,0.126521,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.569601,0.118591,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.589379,0.120635,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.609664,0.124353,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.596002,0.13022,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.560638,0.116926,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.610415,0.132336,263169,Mandelbrot_paralelo.hs CRR16 -O3
+0.50018,0.117666,263169,Mandelbrot_paralelo.hs CRR16 -O3
+2.140108,0.468719,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.222076,0.472878,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.658674,0.510851,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.295143,0.492339,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.294235,0.520353,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.624527,0.54613,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.505725,0.502949,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.503331,0.448601,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.675926,0.540591,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.403281,0.46039,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.433354,0.547025,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.500207,0.510691,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.487314,0.470289,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.03779,0.451299,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.228499,0.45797,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.436064,0.478758,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.268438,0.444544,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.282288,0.476361,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.304265,0.435269,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.238018,0.463003,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.529194,0.532083,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.370642,0.505804,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.402836,0.491043,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.312139,0.465216,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.280988,0.456013,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.5117,0.461921,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.367363,0.457044,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.429316,0.459775,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.383174,0.457872,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.214141,0.482121,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.287324,0.461085,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.284743,0.513072,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.294006,0.533441,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.558378,0.469829,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.513922,0.486854,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.533314,0.456376,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.416681,0.505398,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.387792,0.468757,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.281305,0.480243,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.200149,0.479626,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.335735,0.441922,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.256314,0.476382,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.229212,0.48694,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.226905,0.520737,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.244819,0.465987,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.252254,0.452416,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.46094,0.466527,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.340513,0.491956,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.337516,0.50691,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+2.263134,0.48479,1050625,Mandelbrot_paralelo.hs CRR16 -O3
+9.17412,1.890367,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.748035,1.909536,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.92353,1.819273,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.304886,1.729253,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.933503,1.916681,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+8.796507,1.866206,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.31666,1.847286,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.866222,1.831378,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.777229,1.882722,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.75673,1.895813,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.631793,1.851669,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.452075,1.835354,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+10.204895,1.838989,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+10.108944,1.771629,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.029539,1.837436,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.042346,1.818139,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+10.280371,1.90345,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.756385,1.811221,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.564529,1.805868,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.937808,1.811931,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.781706,1.932898,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+10.169539,1.837697,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.289853,1.741151,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.723414,1.895073,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.513588,1.800644,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+8.850035,1.696272,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.809648,1.949344,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.193074,1.795102,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.595783,1.787864,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+10.333397,1.836583,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.708913,1.822315,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.889492,1.812872,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.47429,1.909069,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+10.20376,1.836896,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+10.167234,1.788014,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.86198,1.806784,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.084444,1.753977,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.917714,1.899467,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.467523,1.981085,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.442943,2.049778,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.631544,2.043117,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.679406,1.708162,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.918562,1.958218,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.917762,1.756144,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+10.021196,1.890896,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.198237,1.913598,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+10.001136,1.75898,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+10.465452,1.831897,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.168155,1.793777,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+9.507065,1.860684,4198401,Mandelbrot_paralelo.hs CRR16 -O3
+
+0.011315,0.010954,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.009518,0.011938,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.011285,0.010482,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.011037,0.009582,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.015521,0.011476,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.009178,0.014611,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.012589,0.014569,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.011961,0.014819,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.012645,0.019166,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.016031,0.00742,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.011196,0.013358,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.013579,0.008891,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.011394,0.010333,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.014026,0.015574,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.012545,0.008468,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.012974,0.014421,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.012218,0.010435,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.012756,0.014075,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.011442,0.011938,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.01282,0.011155,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.01271,0.013493,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.012167,0.008912,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.011899,0.013004,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.012926,0.013733,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.012304,0.011152,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.013405,0.012357,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.014252,0.01208,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.011182,0.012435,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.011946,0.012706,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.013585,0.031061,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.01377,0.01414,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.017401,0.008335,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.012061,0.013594,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.015288,0.01213,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.016663,0.014902,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.013709,0.012089,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.012365,0.015446,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.012398,0.012132,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.013068,0.008548,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.011119,0.011745,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.012459,0.011868,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.010901,0.01319,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.011207,0.012542,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.013904,0.017556,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.012282,0.016854,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.012261,0.013542,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.01221,0.015166,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.011117,0.008326,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.011897,0.012275,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.016361,0.010878,16641,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.032638,0.027928,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.03935,0.031921,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.037115,0.023924,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.040311,0.032649,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.031005,0.03159,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.050128,0.032493,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.029915,0.031408,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.031834,0.029927,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.039876,0.031921,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.023649,0.031329,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.029881,0.030978,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.032709,0.032421,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.036014,0.024086,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.044771,0.031419,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.041135,0.026375,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.04042,0.032631,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.031873,0.032141,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.032113,0.029788,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.036346,0.031279,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.032307,0.030778,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.032738,0.023635,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.033818,0.030098,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.031046,0.032882,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.035243,0.030012,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.041974,0.030414,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.031249,0.032223,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.036765,0.030767,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.033188,0.031512,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.03128,0.030913,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.041432,0.024213,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.03279,0.030823,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.043547,0.032625,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.041799,0.030794,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.030487,0.03084,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.030967,0.03041,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.030722,0.027993,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.041907,0.036712,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.031012,0.024099,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.031106,0.031338,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.034295,0.030805,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.040326,0.031411,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.040243,0.032354,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.032423,0.03255,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.034109,0.032795,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.039125,0.033491,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.037978,0.032365,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.040455,0.02504,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.029925,0.032764,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.029957,0.03006,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.032696,0.031407,66049,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.156139,0.111957,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.214568,0.083271,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.206081,0.082918,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.182648,0.118691,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.203902,0.112498,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.209017,0.10593,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.234211,0.107207,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.216369,0.145096,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.184952,0.082104,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.192642,0.085319,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.216428,0.081962,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.194261,0.113043,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.193976,0.08335,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.161357,0.109955,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.202849,0.083344,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.188831,0.108357,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.208571,0.105277,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.205195,0.108484,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.192126,0.089657,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.204083,0.111541,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.208304,0.106053,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.182831,0.112155,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.171951,0.101874,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.248718,0.107593,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.184646,0.086438,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.19895,0.117621,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.21604,0.083651,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.168336,0.109524,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.22273,0.106133,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.194276,0.106361,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.204306,0.082161,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.195423,0.11105,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.198634,0.112269,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.190968,0.090378,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.21264,0.101895,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.206563,0.107886,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.207401,0.115256,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.194254,0.115779,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.201626,0.117508,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.242757,0.128709,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.209269,0.093218,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.183595,0.111914,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.183568,0.10922,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.213579,0.112791,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.210399,0.084344,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.231632,0.129633,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.204065,0.113708,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.225898,0.090147,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.211721,0.108254,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.205367,0.104768,263169,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.676693,0.499434,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.853656,0.506278,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.676326,0.388989,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.716469,0.513523,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.755868,0.472184,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.677381,0.454006,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.90767,0.534663,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.747033,0.477158,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.677599,0.466224,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.736342,0.46147,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.833614,0.462748,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.752516,0.450286,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.68064,0.391276,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.625473,0.469503,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.739403,0.468755,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.679135,0.493937,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.755997,0.485023,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.737694,0.389699,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.655244,0.393228,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.724052,0.393113,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.757955,0.392165,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+1.000217,0.497253,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.755113,0.470246,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.7645,0.40718,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.777419,0.387693,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.71823,0.455027,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.776656,0.467829,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.776087,0.508153,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.753661,0.513968,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.751459,0.478335,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.680813,0.403013,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.663392,0.475972,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.741911,0.471104,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.665752,0.453257,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.823702,0.390685,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.66066,0.389621,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.933879,0.586169,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.697851,0.466618,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.775782,0.475584,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.708105,0.449955,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.907832,0.497413,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.673799,0.391667,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.680281,0.386944,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.815761,0.393852,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.681382,0.47472,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.705421,0.466857,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.705704,0.475634,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.676986,0.509964,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.747447,0.387549,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+0.680912,0.501457,1050625,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.586392,1.546723,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+3.150244,1.532839,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.547394,1.55463,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.605443,1.582132,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.57843,1.839655,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.587203,1.543075,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.539964,1.544292,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.554859,1.719259,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.546146,1.716379,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.787448,1.728906,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.648327,1.642662,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.50216,1.525854,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+3.058874,1.828829,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+3.347188,1.989391,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+3.46309,1.596709,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.711092,1.547776,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.51127,1.566362,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.523871,1.806444,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+3.319955,1.547724,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.636934,1.577551,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+3.398135,1.854007,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.713552,1.555648,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.513882,1.901723,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.683719,1.537995,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+3.79895,1.895845,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.529283,1.529269,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.457329,1.743443,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.442771,1.854339,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.570269,1.843882,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.540964,1.56564,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.494078,1.83219,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+3.215531,1.523967,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+3.732994,2.128382,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.441115,1.796023,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+3.075684,1.791792,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.457849,1.539282,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.458544,1.536031,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.740589,1.742033,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.780815,1.77518,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.768126,1.545813,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+3.332147,2.038702,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.399905,1.843604,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.435987,1.805003,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+3.397539,1.872637,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.762993,1.530228,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.577005,1.738766,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.59773,1.657526,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.486061,1.525735,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.519838,1.734904,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+2.812003,1.822834,4198401,Mandelbrot_paralelo_repa.hs CRR16 -O3
+
+
+0.001206,0.015798,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001092,0.017468,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001036,0.023866,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001374,0.019725,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001148,0.016451,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001174,0.018641,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001143,0.017408,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001228,0.016121,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001149,0.016708,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001083,0.015287,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001201,0.018422,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001283,0.020791,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001284,0.017997,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001271,0.020052,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.00109,0.017096,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001104,0.01515,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001229,0.018036,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001147,0.015317,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001108,0.018799,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001131,0.015074,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001185,0.01659,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001099,0.017418,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001219,0.011696,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001044,0.017987,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001202,0.018908,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001224,0.017299,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001304,0.019397,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001223,0.01577,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001298,0.015779,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001214,0.017026,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.00101,0.024419,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001178,0.016031,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001232,0.016023,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.000985,0.01638,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001097,0.014856,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001159,0.016346,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001137,0.016371,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001219,0.015917,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001274,0.018372,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001276,0.019858,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001051,0.016509,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001102,0.017615,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001149,0.019171,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001069,0.014698,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001187,0.019133,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001071,0.015864,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001225,0.016451,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001127,0.016794,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001069,0.016596,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.001043,0.024811,16641,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.009061,0.070414,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.03837,0.048184,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.010418,0.083973,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.02392,0.030322,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.009255,0.082865,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.036581,0.031736,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.012309,0.02989,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.026499,0.033206,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.028346,0.03716,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.009812,0.062261,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.034502,0.040571,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.029505,0.0325,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.007829,0.066154,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.03216,0.031938,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.030491,0.042688,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.033413,0.030015,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.032212,0.034855,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.01651,0.038297,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.034625,0.031056,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.009983,0.07237,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.026954,0.031178,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.011056,0.078329,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.040822,0.048349,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.027886,0.04876,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.012187,0.068489,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.035526,0.031839,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.029037,0.032379,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.009977,0.060645,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.011609,0.043972,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.038196,0.048349,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.009612,0.032874,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.026856,0.042603,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.011919,0.049182,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.010904,0.076169,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.031158,0.057075,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.02284,0.030572,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.014171,0.082685,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.024469,0.033096,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.007446,0.056466,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.005606,0.088174,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.00764,0.06413,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.031305,0.039445,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.009568,0.032385,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.034554,0.060245,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.008836,0.065758,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.033371,0.032482,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.035265,0.045403,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.015243,0.03256,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.015896,0.050151,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.03076,0.03003,66049,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.077438,0.113854,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.091431,0.11503,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.107142,0.116676,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.120048,0.09584,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.075048,0.117388,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.094569,0.115367,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.103914,0.098186,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.084665,0.115499,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.106582,0.090817,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.022687,0.227579,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.018352,0.177552,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.123107,0.12307,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.017312,0.13505,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.017673,0.124718,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.119266,0.1141,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.075445,0.143019,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.12557,0.122629,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.104774,0.114508,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.106633,0.122897,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.084052,0.116109,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.139016,0.125133,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.081911,0.140363,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.017308,0.130322,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.076358,0.142556,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.107909,0.11617,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.058313,0.118813,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.091949,0.128443,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.116126,0.115044,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.018166,0.215596,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.128013,0.12562,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.098528,0.114453,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.016578,0.194394,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.078996,0.113967,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.11869,0.13263,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.152496,0.12122,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.099325,0.122658,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.018048,0.19812,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.05982,0.117497,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.094582,0.124077,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.125193,0.121736,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.117752,0.097109,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.019691,0.21555,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.058604,0.174599,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.109151,0.10874,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.111479,0.130758,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.017282,0.150287,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.053099,0.182853,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.017578,0.211671,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.08234,0.117028,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.017327,0.210006,263169,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.182663,0.743083,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.088744,0.776624,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.099379,0.481816,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.409796,0.478141,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.108617,0.687586,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.089742,0.486693,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.077221,0.446321,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.107889,0.765055,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.239115,0.418101,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.092356,0.681818,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.090603,0.469174,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.407322,0.504557,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.098979,0.831099,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.100467,0.477987,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.08763,0.513288,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.101025,0.938209,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.097679,0.433113,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.10684,0.458104,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.088626,0.46102,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.115067,0.727422,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.113692,0.539527,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.09117,0.542862,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.114928,0.573672,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.112473,0.740361,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.091127,0.470539,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.431401,0.444837,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.191305,0.571976,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.094911,0.53301,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.09607,0.789163,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.373497,0.485685,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.096062,0.69889,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.092378,0.430478,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.088055,0.407382,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.107028,0.466552,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.099012,0.488848,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.089916,0.785618,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.093315,0.601386,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.08892,0.803653,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.08982,0.496765,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.10407,0.471533,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.092017,0.578415,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.107934,0.784544,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.437365,0.446372,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.114272,0.469213,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.097022,0.7526,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.093513,1.021733,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.097573,0.669131,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.097629,0.407294,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.093363,0.508302,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.100625,0.68317,1050625,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.518094,1.697828,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.359656,1.799802,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.378321,1.515687,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.464268,1.782939,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.545202,1.438649,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.380224,1.856096,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.415541,1.640761,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.440012,2.371728,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.370473,2.051218,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.448635,2.351152,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.362287,1.526857,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.391017,1.882371,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.517065,2.26149,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.536198,1.662388,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.513972,1.753279,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.378321,1.665687,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.390609,1.870245,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.362287,1.616857,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.450456,1.881651,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.390609,1.960245,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.396951,1.897485,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.429961,2.247788,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.382317,1.663193,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.331288,1.980817,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.368529,1.710314,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+1.722549,2.005262,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.530655,1.753868,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.536198,1.634388,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.502426,1.961131,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.545202,1.658649,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.536198,1.594388,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.946716,1.875382,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.434109,2.049148,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+1.298876,1.823385,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+1.011541,1.713042,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.507727,1.700783,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.419709,2.713847,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.448931,2.531311,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.412466,3.617983,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+2.066005,1.778559,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.358573,1.87893,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.442988,1.674842,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.429751,2.078342,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.310404,2.017291,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.442988,1.474842,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.387386,1.644305,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.391164,1.893901,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.485215,1.459877,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.387386,1.724305,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3
+0.519383,1.840666,4198401,Mandelbrot_e_alocacao_paralelo.hs CRR16 -O3

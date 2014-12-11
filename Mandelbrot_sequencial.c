@@ -1,12 +1,13 @@
 #include <stdio.h>
 #include <math.h>
 #include <complex.h>
+
 #include <GL/glut.h>
 #include <sys/timeb.h>
-#include <pthread.h>    /* POSIX Threads */
 
-//gcc mandelbrot.c -o mandelbrot -lm -lGL -lglut -lGLU
 
+//gcc Mandelbrot_sequencial.c -o mandelbrot_sequencial_c -lm -lGL -lglut -lGLU
+//executar ./mandelbrot_sequencial_c 512
 
 struct Pixel
 {
@@ -15,10 +16,7 @@ struct Pixel
 	int cor;
 } ;
 
-typedef struct str_thdata
-{
-    int thread_no;
-} thdata;
+
 
 // função que realiza a iteração para definir o ponto mandelbrot e sua respectiva cor
 struct Pixel IteracaoMandelbrot(double complex ponto,int numeroDeIteracoes)
@@ -42,7 +40,7 @@ struct Pixel IteracaoMandelbrot(double complex ponto,int numeroDeIteracoes)
 }
 
 //função que realiza o calculo de  mandelbrot para todos os numeros complexos do plano e calcula os tempos
-struct Pixel** verificaPlanoComplexo(int x,int y ,double complex planoComplexo[x][y],int numeroDeIteracoes)
+struct Pixel** verificaPlanoComplexo(int x,int y ,double complex** planoComplexo,int numeroDeIteracoes)
 {	
 	int i,j,z;	
 	struct timeb start, end;
@@ -79,7 +77,19 @@ struct Pixel** verificaPlanoComplexo(int x,int y ,double complex planoComplexo[x
 int main(int argc,char** argv)
 {
 	double tela,imageHeigth,imageWidth,numeroDeIteracoes;
-	tela = 512;
+	if(argc == 2)
+	{
+		tela = atoi(argv[1]);
+		
+		
+	}
+	else 
+	{
+		tela = 512;
+		
+	}
+	
+	//tela = 2048;
 	imageHeigth = 4;
 	imageWidth = 4;
 	numeroDeIteracoes = 50;	
@@ -89,14 +99,21 @@ int main(int argc,char** argv)
 	double teste ;
 	int x,y,i,j;
 
-	x = floor((imageHeigth/passo)+1);
-	y = floor((imageWidth/passo)+1);
+	x = floor((imageHeigth/passo));
+	y = floor((imageWidth/passo));
 	
-	double complex planoComplexo[x][y];  
+	double complex** planoComplexo= (double complex** )malloc(x*sizeof(double complex ));
+	for(i = 0; i < x; i++)
+		planoComplexo[i] = malloc(y*sizeof(struct Pixel)); 
+
 	struct Pixel** pixeis; 	
 	
 	valory=-imageHeigth/2;
 	
+	
+	
+
+
 	// laço que varre todos os pontos do plano, cria e armazena o numero complexo na matriz plano complexo
 	for (j=0;j<y;j++)
 	{
@@ -105,16 +122,12 @@ int main(int argc,char** argv)
 		for (i=0;i<x;i++)
 		{
 			planoComplexo[i][j]=valorx+valory*I;
+			
 			valorx=valorx+passo;	
 		}
 		valory=valory+passo;
 	}
 	
-	pthread_t threads[4]  /* thread variables */
-    	thdata data[4]         /* structs to be passed to threads */
-	
-	for (i=1;i<4;i++)
-		data[i] = i;
 	
 	pixeis=verificaPlanoComplexo(x,y,planoComplexo,numeroDeIteracoes);
 	

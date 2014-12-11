@@ -5,8 +5,8 @@
 #include <sys/timeb.h>
 #include <pthread.h>    /* POSIX Threads */
 
-//gcc mandelbrot.c -o mandelbrot -lm -lGL -lglut -lGLU -pthread
-
+//gcc Mandelbrot_Paralelo.c -o mandelbrot_paralelo_c -lm -lGL -lglut -lGLU -pthread
+//./mandelbrot_paralelo_c  1 2048
 
 struct Pixel
 {
@@ -67,7 +67,7 @@ int main(int argc,char** argv)
 	if(argc == 3)
 	{
 		tela = atoi(argv[2]);
-		numThreads = atoi(argv[1])*atoi(argv[1]);
+		numThreads = atoi(argv[1]);
 		
 	}
 	else 
@@ -152,7 +152,7 @@ int main(int argc,char** argv)
 	militm = end.millitm - start.millitm;
 	if (0 > militm) {militm += 1000;seconds--; }
 	
-	int totalThreads =numThreads*numThreads;
+	int totalThreads =numThreads;
 	int numPontos = tela*tela;
 	printf("%d, %d ,Linha RoundRobin ,  %ld.%03d s\n",totalThreads,numPontos, seconds, militm);
 	//pixeis=verificaPlanoComplexo(x,y,planoComplexo,numeroDeIteracoes);
